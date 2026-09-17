@@ -1,0 +1,1 @@
+import{s as i}from"./index-_R8gcQ7W.js";function a(t){return i.get("/activities",{params:t})}function n(t){return i.get(`/activities/${t}`)}function r(t){return i.post("/activities",t)}function s(t,e){return i.put(`/activities/${t}`,e)}function u(t){return i.delete(`/activities/${t}`)}export{a,r as c,u as d,n as g,s as u};
